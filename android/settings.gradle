@@ -1,5 +1,5 @@
 rootProject.name = 'paymob_flutter_lib'
-// include ':acceptsdk'
+include ':acceptsdk'
 // apply from: '../settings.gradle'
 // include ':paymob_flutter_lib'
 // include ':acceptsdk'
